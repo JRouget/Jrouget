@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is JoJo and I'm a Web dev, from CODA School</p>
 
 ###
 
